@@ -1,8 +1,8 @@
-## XTS1
+# XT-S1
 Basic demo for the XTS1 sensor from ToFFuture Technologies.\
 Made this demo after some people requested it from YouTube's comment section.
 
-### [Link to the video](https://youtu.be/j4Uym-JqLws)
+## [Link to the video](https://youtu.be/j4Uym-JqLws)
 
 The demo project can be found in the XT-S1_ESPIDF folder.\
 Datasheet comes directly from the manufacturer.\
