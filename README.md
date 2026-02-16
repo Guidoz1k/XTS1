@@ -8,5 +8,7 @@ The demo project can be found in the XT-S1_ESPIDF folder.\
 Datasheet comes directly from the manufacturer.\
 Code written using Visual Code, Platform Io, ESP-IDF framework, purple ESP32-S3 devkit.
 
+The "refactor" folder includes the more professional looking library, thanks to hendrickbg
+
 There's also a folder call "test program", which contains a program from the manufacturer
 to test the LiDAR module. I never used it but you may find it useful for something.
